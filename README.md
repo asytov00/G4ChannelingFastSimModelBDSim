@@ -9,7 +9,7 @@ in which one should add a bent crystal component in the following way (... shoul
 CR1: usercomponent, userTypeName="crystaldeflector", l=..., xsize=...*cm, ysize=...*cm, materialThickness=...*mm, offsetX=...*cm, offsetY=...*mm, axisX=..., axisY = ..., axisZ = ..., horizontalWidth=...*cm,  material="G4_Si", vacuumMaterial="vacuum", userParameters="crystalRegion:crystal1 crystalBendingAngle:... crystalLattice:(111) colour:decapole radiationModel:false";
 
 CR1 is the component’s name.
-• userTypeName identifies the component type as ”crystaldeflector”.\\
+• userTypeName identifies the component type as ”crystaldeflector”.<br />
 • l, xsize, ysize, and materialThickness define the dimensions and thickness of the crystal in the G4Box.
 • offsetX, offsetY, and axisX, axisY, axisZ define the component’s position and orientation in the beamline.
 • horizontalWidth defines the vacuum space of the component around the crystal.
