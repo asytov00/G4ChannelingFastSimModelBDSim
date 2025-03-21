@@ -19,8 +19,11 @@ CR1 is the component’s name.
 The radiation model simulating the radiation energy losses is G4BaierKatkov using Baier-Katkov method [4].
 
 [1] A. Sytov et al. https://arxiv.org/abs/2412.10715
+
 [2] A. Sytov et al. Journal of the Korean Physical Society 83, 132-139, (2023) DOI: https://doi.org/10.1007/s40042-023-00834-6
-[3] R. Negrello,..., A. Sytov. Nuclear Instruments and Methods in Physics Research, Section A 1074, 170277 (2025) DOI: https://doi.org/10.1016/j.nima.2025.170412    
+
+[3] R. Negrello,..., A. Sytov. Nuclear Instruments and Methods in Physics Research, Section A 1074, 170277 (2025) DOI: https://doi.org/10.1016/j.nima.2025.170412 
+
 [4] V. N. Baier, V. M. Katkov, and V. M. Strakhovenko, Electromagnetic Processes at High Energies in Oriented Single Crystals (World Scientific, Singapore, 1998).
 
 G4ChannelingFastSimModelBDSim has been developed by Alexei Sytov within European Commission H2020-MSCA-IF-2020-GF TRILLION, GA. 101032975.
